@@ -5,8 +5,8 @@ Toggle Sidebar for Google Messenger and WhatsApp.
 Elevate your messaging experience with Toggle Sidebar. Our extension will provide enhanced privacy by seamlessly hiding your contact list and reclaim valuable screen real estate. 
 
 ## Installation
-### Chromestore
-1. Install from the Chrome Web Store: [Toggle Sidebar](https://chrome.google.com/webstore/detail/toggle-sidebar/ejkcciildkjbakbjngbenpbmioheecnb)
+### Chrome Web Store
+1. Visit [Toggle Sidebar](https://chrome.google.com/webstore/detail/toggle-sidebar/ejkcciildkjbakbjngbenpbmioheecnb) to download extension
 
 ### Google Chrome Browser
 1. Navigate to `chrome://extensions/`
