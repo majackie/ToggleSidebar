@@ -4,7 +4,7 @@ chrome.action.onClicked.addListener(function (tab) {
 
 chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
     if (request.action === 'fetchClasses') {
-        fetch(chrome.runtime.getURL("/classes.txt"))
+        fetch("https://raw.githubusercontent.com/majackie/ToggleSidebar/main/classes.txt")
             .then(response => {
                 if (!response.ok) {
                     throw new Error(`Failed to fetch classes.txt: ${response.status}`);
